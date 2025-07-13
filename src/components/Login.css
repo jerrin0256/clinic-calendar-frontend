@@ -1,0 +1,93 @@
+
+.login-page {
+  
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-card {
+ background-color: rgba(255, 255, 255, 0.037);
+  padding: 40px;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 400px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); 
+  
+   
+}
+
+.login-card h2 {
+  margin-bottom: 20px;
+  font-size: 28px;
+  text-align: center;
+}
+
+.input-group {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.input-group input {
+  width: 100%;
+   padding: 25px 10px 10px 10px;
+  border: 1px solid #e6e4e4;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.input-icon {
+  position: absolute;
+  top: 30%;
+  left: 10px;
+  transform: translateY(-50%);
+  color: #888;
+}
+
+.login-links {
+  text-align: right;
+  font-size: 0.9rem;
+  margin-bottom: 20px;
+}
+
+.login-links a {
+  color: #288ea7;
+  text-decoration: none;
+}
+
+.login-btn {
+  width: 100%;
+  padding: 12px;
+  background-color: #2894a7;
+  border: none;
+  color: rgb(5, 0, 0);
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.login-btn:hover {
+  background-color: #504f4ebd;
+}
+
+.signup-text {
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.signup-text a {
+  color: #289aa7;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.help-link {
+  display: block;
+  text-align: center;
+  margin-top: 8px;
+  color: #289aa7;
+  font-size: 0.85rem;
+}

@@ -1,0 +1,2 @@
+export const doctors = ["Dr. Smith", "Dr. Johnson", "Dr. Lee", "Dr. Brown", "Dr. Garcia", "Dr. Martinez", "Dr. Wilson", "Dr. Anderson", "Dr. Taylor", "Dr. Thomas"];
+export const patients = ["Alice", "Bob", "Charlie", "David", "Eva", "Frank", "Grace", "Hannah", "Ian", "Jack"];
